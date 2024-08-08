@@ -1,7 +1,7 @@
 <?php
 
-$test = 12;
-$gnu = 657
+test = 12;
+gnu = 657
 echo "Hello World!", $gnu;
 
 ?>
